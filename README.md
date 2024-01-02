@@ -16,8 +16,7 @@ Here are some of the exciting projects I've worked on:
 
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
+- 
 
 ## 🌟 Fun Facts
 - I believe in the power of collaboration and brain storming.

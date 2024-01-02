@@ -19,15 +19,15 @@ Here are some of the exciting projects I've worked on:
 - 
 
 ## 🌟 Fun Facts
-- I believe in the power of collaboration and brain storming.
+- I believe in the power of sleeping.
 
 ## 🚀 Skills
 - **Programming Languages:** C, Python, Golang, NodeJS
 - **Frameworks:** TensorFlow, OpenCV
 - **Hardware:** Arduino, Raspberry Pi, PLC
-- **CAD Tools:** SolidWorks, AutoCAD, Inventor
+- **CAD Tools:** AutoCAD, Inventor
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=UIVusual&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🎉 Thanks for visiting my profile! 
